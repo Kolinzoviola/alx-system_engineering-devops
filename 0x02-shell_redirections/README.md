@@ -1,1 +1,1 @@
-shell redirections learning
+shell redirections so hard
