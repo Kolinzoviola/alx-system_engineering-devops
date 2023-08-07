@@ -1,1 +1,1 @@
-learning shell i/o redirection
+shell redirections
